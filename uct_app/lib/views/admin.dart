@@ -5,7 +5,7 @@ import 'package:uct_app/components/dominios.dart';
 import 'package:uct_app/components/citas.dart';
 import 'package:uct_app/components/bloqueados.dart';
 import 'package:uct_app/components/courses.dart';
-
+poto
 class AdminPanel extends StatefulWidget {
   const AdminPanel({super.key});
 
